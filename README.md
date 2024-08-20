@@ -5,6 +5,7 @@ The Dataset was a Fitness Company 2023 Financial Data which was Analysed.
 Based on the Revenue-Expense Data provided in the Dataset, the key observations were:
 
 The Dataset cotained the Revenue & Expense Data for the Year 2023 split across 12 months
+
 There were 3 Business line which the company split their products across - Sports Inventory, Sportswear, and Nutrition & Food Supplements
 Revenue was categorized into three groups - Sales, Consulting and professional services and Other income whereas Expense categories were COGS, OPEX and Interest & Tax 
 The expense categories were further broken down into subgroups - COGS(Labour, Laterial, Other, Packaging, Sales, Shipping), OPEX(Equipment, Marketing, Other, Payroll, R&D, Rent) and Interest & Tax
@@ -42,12 +43,12 @@ Other Expense %
 
 The Financial Report for the Onyx Fitness consisted of the following sections:
 
-Executive Summary
+**Executive Summary**
 Purpose: Provide a high-level overview of the company's key financial metrics.
 KPI's represented:
 Total Revenue, Net Profit, EBIT, and Gross Profit Margin, Net Profit Margin, EBIT Margin
 
-Revenue and Profitability Section 
+**Revenue and Profitability Section **
 Purpose: Analyze revenue trends, sources, and contributions and deep dive into the company's profit margins and cost management.
 
 KPIs Analysed:
@@ -56,7 +57,7 @@ Gross Profit Margin
 Operating Profit Margin (EBIT Margin)
 Net Profit Margin
 
-Cost Efficiency Section
+**Cost Efficiency Section**
 Purpose: Analyze the company’s cost structure and identify areas of high expenditure.
 
 KPIs Analyzed:
@@ -64,7 +65,7 @@ COGS
 Operating Expense (OPEX) 
 Other Expenses
 
-Operational Efficiency
+**Operational Efficiency**
 Purpose: Monitor key operational efficiency metrics.
 
 KPI's Analysed:
@@ -74,7 +75,7 @@ EBIT Margin
 Return on Sales (ROS)
 Operating Profit Margin
 
-Profit & Loss Statement
+**Profit & Loss Statement**
 Purpose: Provide a detailed view of the income statement.
 
 KPI's Analysed:
